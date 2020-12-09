@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(94, 120, 175);
+    height: 50px;
+}
+
+header a{
+    float: right;
+    color: black;
+   
+}
+
+.head-tag a{
+    float: right;
+    margin-top: 10px;
+    margin-right: 55px;
+}
+.head-tag a{
+     text-decoration: none;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: white;
+    
+    
+}
+
+body h1{
+    text-align: center;
+    font-style: italic;
+}

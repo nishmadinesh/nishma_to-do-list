@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(94, 120, 175);
+    height: 50px;
+}
+
+header h2{
+    text-align: right;
+    margin-right: 10%;
+
+}
+
+body p{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+
+
+.login h2{
+    text-align: center;
+    font-style: italic;
+}
+
+.container{
+     border: 5px solid rgb(86, 102, 175);
+     background-color: rgb(165, 176, 236);
+     height: 20em;
+     width: 25em;
+     margin-left: 40%;
+     margin-top: 5%
+}
+
+.container label{
+    margin-left: 10%;
+}
+.container input{
+     margin-left: 10%;
+     border: solid rgb(86, 102, 175);
+     background-color: white;
+     width: 20em;
+}
+
+.login input{
+    background-color: rgb(86, 102, 175);
+    width: 20.5em;
+}
+
+.container h2{
+    text-align: center;
+}
